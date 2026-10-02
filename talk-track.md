@@ -3,7 +3,7 @@
 **CHI+AI conversation:** Heather Masters and Ralph Babusci
 **Audience:** Chicagoans and the general public
 **Length:** 40 minutes, plus optional 5-minute Q&A
-**Tool:** Microsoft Copilot on the web (`copilot.microsoft.com`)
+**Tool:** Microsoft Copilot on the web (`copilot.microsoft.com`), signed in with a personal Microsoft account
 
 ## The simple message
 
@@ -15,10 +15,12 @@ AI can help us learn, create, and get work started. It can also make mistakes. W
 
 ## Before the talk
 
-- Open Copilot and have the fictional prompts ready.
+- Open Copilot and sign in with a personal Microsoft account. Do not use a work or school account for this demonstration.
+- Before screen sharing, make sure your account details and previous chats are not visible.
 - Use only the made-up examples in this talk.
-- Do not ask anyone to sign in, share personal information, or use their own files.
-- If Copilot asks you to sign in or a feature is unavailable, continue with the prepared example. Features can vary.
+- Invite participants to follow along at `copilot.microsoft.com` with their own personal account if they choose. Watching is fine; no one has to sign in.
+- Do not ask participants to share personal information, private chats, or files.
+- If sign-in or a feature is unavailable, continue with the prepared example. Features and settings can change.
 - Invite people to watch, think, or pass. No one has to use AI.
 
 ## 0:00-3:00 — Welcome: start with the audience
@@ -55,17 +57,47 @@ Take two or three answers.
 
 > A confident answer is not the same as a correct answer.
 
-## 7:00-11:00 — Keep the example safe
+## 7:00-13:00 — Personal Copilot: terms, data, and choices
 
 **Say:**
 
-> We are using Copilot on the public web with made-up examples. Please don't enter personal details, passwords, private messages, work information, or anything you wouldn't want to share with a public service.
+> Please open `copilot.microsoft.com`. If you want to follow along, sign in with a personal Microsoft account—not a work or school account. You can also just watch.
 
-> If a task needs private information, stop and check which tool and rules are appropriate. Being able to enter information does not mean we should.
+> Before using a service, it is worth knowing its basic rules. The personal Copilot terms say Microsoft does not own your prompts and replies, but you give Microsoft permission to process them to run and improve Copilot. The terms also say some processing may be done by people as well as computers.
 
-Make clear that audience members can participate without opening Copilot or sharing anything.
+> That means a personal Copilot chat is not a private diary. Don't enter passwords, private messages, sensitive personal details, or work or school information.
 
-## 11:00-16:00 — Demo 1: use Copilot to learn
+### The simple answer about model training
+
+**Say:**
+
+> There is a difference between using a chat to run and improve a service and using it to train the main AI model. Microsoft's current Copilot privacy information says prompts, replies, and file contents in the Copilot app are not used to train its foundation models. Microsoft still processes information to provide, protect, and improve the service, as described in its terms and privacy statement.
+
+> So: “not used to train the main model” does not mean “nothing is saved or used.”
+
+### What people can control
+
+**Say:**
+
+> When you are signed in, Copilot keeps chat history so you can return to it. You can export or delete Copilot activity from your Microsoft Privacy Dashboard. In Copilot settings, you can review choices such as saved memories, connected experiences, web search, and personalized ads. The exact settings may change.
+
+Show, but do not expose account details:
+
+1. Open the profile or settings menu.
+2. Find **Personalization** and review the available choices.
+3. Point to the Microsoft Privacy Dashboard for exporting or deleting activity history.
+
+**Ask:**
+
+> What is one thing you would keep out of a personal AI chat?
+
+**Key line:**
+
+> Use a personal account for personal experiments. Keep private and work information out of public Copilot.
+
+Tell the audience that Microsoft's terms and privacy pages are linked below. These are plain-language notes, not legal advice; the official pages are the source of truth.
+
+## 13:00-18:00 — Demo 1: use Copilot to learn
 
 Open Copilot and enter:
 
@@ -89,7 +121,7 @@ If a link is missing or unhelpful, model a simple follow-up:
 
 > Copilot can help us learn. We still check important facts.
 
-## 16:00-26:00 — Demo 2: use Copilot to create
+## 18:00-28:00 — Demo 2: use Copilot to create
 
 Introduce the made-up event:
 
@@ -119,7 +151,7 @@ Read the result together. Ask the audience to spot a supported fact and anything
 
 > Copilot helped us make a draft. We supplied the facts and decide what to keep.
 
-## 26:00-31:00 — Check before you share
+## 28:00-32:00 — Check before you share
 
 Show or read one deliberately incorrect detail in the invitation—for example, the wrong time or an invented registration link.
 
@@ -137,7 +169,7 @@ For images or videos, add:
 
 > Don't decide only by how real it looks. Ask who shared it and whether a trusted source confirms it.
 
-## 31:00-35:00 — Demo 3: use Copilot to get work started
+## 32:00-36:00 — Demo 3: use Copilot to get work started
 
 Use only this made-up example:
 
@@ -157,7 +189,7 @@ Compare the original with the rewrite. Point out any added claim.
 
 > Does the new version still sound true to the person who did the work?
 
-## 35:00-38:00 — Keep people in charge
+## 36:00-38:00 — Keep people in charge
 
 **Ask Ralph and the audience:**
 
@@ -195,3 +227,12 @@ If the room is quiet, ask:
 
 **Ask clearly. Check the answer. Choose what to do.**
 Use made-up or public information. Check important claims. You are always free to say no.
+
+## Official links for the audience
+
+- [Copilot Terms of Use](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
+- [Microsoft Copilot privacy controls and choices](https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls)
+- [Export or delete Copilot activity history](https://support.microsoft.com/en-us/privacy/manage-your-copilot-activity-history-in-the-privacy-dashboard)
+- [Microsoft Privacy Statement](https://www.microsoft.com/en-us/privacy/privacystatement)
+
+*Reviewed October 2, 2026. Microsoft's terms, product behavior, and settings can change; check the official pages before presenting.*
