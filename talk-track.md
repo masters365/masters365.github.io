@@ -29,15 +29,29 @@ AI can help us learn, create, and get work started. It can also make mistakes. W
 
 > Welcome. Today we'll try a few simple ways Microsoft Copilot can help us learn, create, and get work started. You don't need to be an AI expert—and you don't have to use AI to take part.
 
+**Heather — introduce Ralph:**
+
+> I'm glad to be here with my friend and colleague Ralph Babusci. Ralph and I presented an AI series for Chicago Public Library employees, focused on how they could help the public understand and navigate AI.
+
+**Ralph — suggested reply:**
+
+> We wanted to make AI approachable for library staff and the people they serve. Today we'll keep that spirit: try a few things, ask questions, and decide for ourselves.
+
+**Heather:**
+
+> Exactly. You don't need to be an expert. Let's start with what AI already looks like in everyday life.
+
 **Ask:**
 
 > Where have you noticed AI in everyday life—recommendations, maps, captions, or chat?
 
 Take two or three answers.
 
-**Ralph and Heather:** Briefly share one everyday example each. Keep it conversational.
+**Ralph — optional follow-up:**
 
-**Say:**
+> What made that experience helpful—or not so helpful?
+
+**Heather:**
 
 > Our three habits today are simple: ask clearly, check the answer, and choose what to do.
 
@@ -67,6 +81,14 @@ Take two or three answers.
 
 > That means a personal Copilot chat is not a private diary. Don't enter passwords, private messages, sensitive personal details, or work or school information.
 
+**Heather to Ralph:**
+
+> Since we're inviting people to sign in with a personal account, what should we keep out of today's examples?
+
+**Ralph — suggested reply:**
+
+> Anything private or sensitive. We'll stick to made-up details, and people can follow along or just watch.
+
 ### The simple answer about model training
 
 **Say:**
@@ -94,6 +116,14 @@ Show, but do not expose account details:
 **Key line:**
 
 > Use a personal account for personal experiments. Keep private and work information out of public Copilot.
+
+**Ralph to audience:**
+
+> Does “not used to train the main model” mean “nothing is saved or processed”?
+
+**Heather:**
+
+> No. Chats can be saved in your history, and Microsoft still processes information to provide and improve the service. That's why we keep private details out.
 
 Tell the audience that Microsoft's terms and privacy pages are linked below. These are plain-language notes, not legal advice; the official pages are the source of truth.
 
@@ -147,6 +177,14 @@ Then give it the facts and boundaries:
 
 Read the result together. Ask the audience to spot a supported fact and anything that needs checking.
 
+**Heather to Ralph:**
+
+> What detail should Copilot leave as a question?
+
+**Ralph — suggested reply:**
+
+> Registration. We said it hasn't been decided, so Copilot shouldn't make one up.
+
 **Say:**
 
 > Copilot helped us make a draft. We supplied the facts and decide what to keep.
@@ -180,6 +218,10 @@ Ask Copilot:
 > Make this sentence clearer for a resume. Keep it truthful. Do not add numbers, results, tools, or responsibilities. Tell me if you need more information.
 
 Compare the original with the rewrite. Point out any added claim.
+
+**Ralph to audience:**
+
+> Did the wording get clearer without adding a claim?
 
 **Say:**
 
