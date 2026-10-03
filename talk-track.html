@@ -158,6 +158,10 @@
     .speaker-role { color: var(--cp-text-muted); margin: 0 0 10px; }
     .linkedin-link { color: var(--cp-link); font-weight: 700; text-decoration: none; }
     .linkedin-link:hover, footer a:hover { text-decoration: underline; }
+    .qr-link { display: grid; justify-items: center; gap: 8px; width: fit-content; margin: 18px auto 0; color: var(--cp-link); font-weight: 700; text-align: center; text-decoration: none; }
+    .qr-link:hover span { text-decoration: underline; }
+    .qr-code { display: block; width: 184px; max-width: 100%; padding: 10px; border: 1px solid var(--cp-border); border-radius: .625rem; background: var(--cp-surface); }
+    .qr-download { display: block; margin-top: 8px; text-align: center; }
     footer a { color: var(--cp-link); }
     footer { border-top: 1px solid var(--cp-border); padding: 28px 0 48px; color: var(--cp-text-muted); }
     @media (max-width: 800px) {
@@ -196,6 +200,11 @@
         <span>Heather Masters · Ralph Babusci · broad public audience</span>
         <hr>
         <p class="muted">Follow along with a personal Microsoft account if you like, or just watch. We'll use made-up examples; features and settings may vary.</p>
+        <a class="qr-link" href="https://masters365.github.io/talk-track.html">
+          <img class="qr-code" src="talk-track-qr.svg" alt="QR code linking to the public CHI+AI talk track">
+          <span>Scan to open the public talk track</span>
+        </a>
+        <a class="qr-download linkedin-link" href="talk-track-qr.svg" download>Download the QR code (SVG)</a>
       </aside>
     </section>
 
